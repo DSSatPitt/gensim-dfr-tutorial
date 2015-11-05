@@ -1,0 +1,9 @@
+Job Title: the english journal part 2
+Job ID: 2015.10.29.8FrPrj2x
+Requester: mcburton
+Query: http://dfr.jstor.org/fsearch/submitrequest?cs=jcode%3Aenglishj%5E1.0%7Cyear%3A%5B1920+TO+1925%5D%5E1.0&fs=yrm1%3Asnm1&view=text&
+View(s): citations|wordcounts|bigrams|trigrams|quadgrams|keyterms
+Format: CSV
+Documents Requested: 1000
+Date Processed: 2015-10-29 12:27:01.548057
+

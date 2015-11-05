@@ -1,0 +1,9 @@
+Job Title: demo of dfr - english journal
+Job ID: 2015.10.29.JzHzfAzZ
+Requester: mcburton
+Query: http://dfr.jstor.org/fsearch/submitrequest?cs=jcode%3Aenglishj%5E1.0&fs=yrm1%3Asnm1&view=text&cc=year%3a[1912+TO+1920]^1.0
+View(s): citations
+Format: CSV
+Documents Requested: 1000
+Date Processed: 2015-10-29 11:12:01.381286
+
